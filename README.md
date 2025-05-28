@@ -1,2 +1,2 @@
-# NYC_Project
+# Project
 Upgrade Assignment
